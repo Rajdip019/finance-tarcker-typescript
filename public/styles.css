@@ -93,3 +93,9 @@ body{
     position: sticky;
     bottom: 0;
   }
+  .by{
+    font-size: 16px;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+  }
